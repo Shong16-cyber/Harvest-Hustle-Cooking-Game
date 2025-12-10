@@ -114,7 +114,7 @@ if display is None:
 
 accelerometer = adafruit_adxl34x.ADXL345(i2c)
 
-NUM_PIXELS = 8
+NUM_PIXELS = 1
 pixels = neopixel.NeoPixel(board.D3, NUM_PIXELS, brightness=0.3, auto_write=False)
 
 # Buzzer setup on D2
