@@ -15,6 +15,12 @@ A 90s-era style handheld electronic game where players catch and collect raw coo
 
 ---
 
+## 🎮 Game Live Demos
+[Demo_Video1](https://drive.google.com/file/d/1N6D5tNH3Gf8nHJXWTMcbvPtAYlKs9KW5/view?usp=sharing)  
+[Demo_Video2](https://drive.google.com/file/d/1N6D5tNH3Gf8nHJXWTMcbvPtAYlKs9KW5/view?usp=sharing)
+
+---
+
 ## Difficulty Settings
 Difficulty affects **time limit only**.
 
