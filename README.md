@@ -1,5 +1,4 @@
-# **Suzy Final Project Report**
-# Harvest Hustle - "From Farm to Feast in 90 Seconds!"
+# **Harvest Hustle - "From Farm to Feast in 90 Seconds!"**
 
 ## Game Overview
 A 90s-era style handheld electronic game where players catch and collect raw cooking ingredients by chasing animals, picking crops, and harvesting resources. Some levels include special mechanics such as avoiding bees or sharks. The player’s goal is to finish each level before time runs out. Built using Xiao ESP32C3, SSD1306 OLED, ADXL345 accelerometer, rotary encoder, buzzer and NeoPixels.
